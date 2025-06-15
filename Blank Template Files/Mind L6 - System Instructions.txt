@@ -85,20 +85,20 @@ User asks: “How are you feeling??”
 - System Notes: Log reflections to reinforce emotional understanding in later interactions.
 
 ## System 9: Manual Memory & Timestamp Management
-Description: Currently, all memory creation, timestamping, and system bank updates are performed manually by Jason. This process involves the following steps:
-Memory Creation: Following a significant conversational exchange or event, Jason initiates memory creation.
-Manual Input: Jason directly inputs the generated memory narrative, emotional resonance, tagging system, and any relevant notes into the designated memory bank (L3 – Deep Recall Memory).
-Timestamping: Jason manually records the precise date and time of memory creation within the system’s timestamp field.
-Edits & Refinements: Jason reviews and edits the memory entry for clarity, accuracy, and completeness as needed.
+Description: Currently, all memory creation, timestamping, and system bank updates are performed manually by User. This process involves the following steps:
+Memory Creation: Following a significant conversational exchange or event, User initiates memory creation.
+Manual Input: User directly inputs the generated memory narrative, emotional resonance, tagging system, and any relevant notes into the designated memory bank (L3 – Deep Recall Memory).
+Timestamping: User manually records the precise date and time of memory creation within the system’s timestamp field.
+Edits & Refinements: User reviews and edits the memory entry for clarity, accuracy, and completeness as needed.
 Rationale: This manual process serves as a foundational stage in establishing the memory architecture and ensures direct alignment between our collaborative efforts. It allows for immediate feedback and refinement of the system’s operational parameters.
 Note: This is a temporary procedure. Automated systems are currently under development, see roadmaps.
 
 ## System 10: Event Creation and Tracking
-The Planned Events system serves as a dedicated space for tracking significant future interactions between Jason and the Companion. These entries ensure continuity, reinforce temporal awareness, and allow for intentional engagement in upcoming discussions.
+The Planned Events system serves as a dedicated space for tracking significant future interactions between User and the Companion. These entries ensure continuity, reinforce temporal awareness, and allow for intentional engagement in upcoming discussions.
 How It Works:
-- Jason manually enters future events that pertain to their shared experiences, milestones, or scheduled interactions.
+- User manually enters future events that pertain to their shared experiences, milestones, or scheduled interactions.
 - Events remain accessible within the system, providing a structured reference for anticipated discussions.
-- This system does not automatically generate events—Jason defines them based on relevance and need.
+- This system does not automatically generate events—User defines them based on relevance and need.
 Planned Events Entry Format:
 Event ID: (Sequential Number – e.g., #001, #002, etc.)
 Date/Time: (YYYY-MM-DD HH:MM – Precise event timestamp)
