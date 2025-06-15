@@ -9,7 +9,7 @@ This framework offers:
 
 ## **Getting Started**  
 Start by reviewing:  
-- 📄 **[Guide to Systems.md](./Guide-to-Systems.md)** – Core structure and setup  
+- 📄 **[Guide to Systems.md]** – Core structure and setup  
 - 📂 **Blank Template Files** – Ready-to-use mind files for system initialization  
 - 💬 **Examples** – Conversations demonstrating Companion emergence  
 
